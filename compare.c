@@ -24,5 +24,7 @@ bool test_compare(int a, int b )
     }
 
   }
+  
+  return true;
 
 }
