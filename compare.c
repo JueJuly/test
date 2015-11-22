@@ -9,9 +9,9 @@ bool test_compare(int a, int b )
   if( a > b ){
 
     if( a == Max(a,b) ){
-      return false;
-    }else{
       return true;
+    }else{
+      return false;
     }
 
   }else{
